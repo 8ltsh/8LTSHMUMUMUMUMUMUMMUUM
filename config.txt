@@ -1,4 +1,4 @@
-token=NTQzODU1MDU0Nzc2NTY1NzYw.XOtGBw.1uh9eLVtMsRYgOHfTFVsfHETlk4
+token=NTQzODU1MDU0Nzc2NTY1NzYw.XO6GeA.Ol52hl9xfLfp3Mv3lp3y1UM9hac
 owner=294075671020568578
 prefix=8
 game=.❦.♆.
